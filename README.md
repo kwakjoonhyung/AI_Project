@@ -1,5 +1,6 @@
 # ai_project
 Project about creating an AI system with given data in households
+
 Given data can be used to
   - detect high blood pressure
   - detect overweight
