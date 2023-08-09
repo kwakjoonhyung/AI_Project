@@ -1,5 +1,6 @@
 # AI_Project
 This is a project from AI_Project class during my exchange student in Germany (Deggendorf Institute of Technology)
+
 The project's goal is to create an AI system with given data in households
 
 Given data can be used to
