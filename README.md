@@ -1,4 +1,4 @@
-# ai_project
+# AI_Project
 Project about creating an AI system with given data in households
 
 Given data can be used to
