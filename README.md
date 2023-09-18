@@ -12,6 +12,8 @@ Given data can be used to
 Our project focused on the two goals below
   - Automatic ventilation based on air quality
   - Tracking sleeping time
+
+    
 ![image](https://github.com/kwakjoonhyung/AI_Project/assets/84233813/103f5fa3-218f-41af-b667-9f489823235a)
 ![image](https://github.com/kwakjoonhyung/AI_Project/assets/84233813/f62f23d8-edd4-4ff8-8cde-147bfe7686d6)
 ![image](https://github.com/kwakjoonhyung/AI_Project/assets/84233813/c6e2fb40-b893-45d9-8e25-9e2e82e45f96)
