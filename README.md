@@ -14,7 +14,7 @@ Our project focused on the two goals below
   - Tracking sleeping time
 
 # Project Information
-Deinhaus4.0(https://deinhaus4-0.de/start/)
+[Deinhaus4.0](https://deinhaus4-0.de/start/)
     
 ![image](https://github.com/kwakjoonhyung/AI_Project/assets/84233813/103f5fa3-218f-41af-b667-9f489823235a)
 ![image](https://github.com/kwakjoonhyung/AI_Project/assets/84233813/f62f23d8-edd4-4ff8-8cde-147bfe7686d6)
